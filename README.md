@@ -15,9 +15,9 @@ The Diablo-ChatBot is built using OpenAI's DialoGPT model, fine-tuned from GPT-2
 2. **Fine-tune the model:**
   
 3. **Load the fine-tuned model:**
-4. Modify the code to load your fine-tuned model instead of the pretrained DialoGPT model.
+    Modify the code to load your fine-tuned model instead of the pretrained DialoGPT model.
 
-5. **Test and evaluate:**
+4. **Test and evaluate:**
    - Test the chatbot with domain-specific queries.
    - Evaluate the performance and make adjustments as necessary.
 
